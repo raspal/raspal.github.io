@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Web Developer, Launches Site"
+title: "The Web Developer Launches Site"
 date: 2017-10-21
 ---
 
