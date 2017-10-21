@@ -1,5 +1,5 @@
 name: The Web Developer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-highlighter: rouge
 theme: jekyll-theme-hacker
+highlighter: rouge
