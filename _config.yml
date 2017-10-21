@@ -1,2 +1,3 @@
-  name: The Web Developer
+  	name: The Web Developer
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
